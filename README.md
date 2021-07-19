@@ -1,7 +1,6 @@
-# Curso_Python_Pandas_Digital_Innovation
- Repositório do Curso Introdutório de Python para análise de dados com Python e Pandas da Digital Innovation One.
+# Codigo_Desenvolvido_Durante_Curso_Python_Pandas_Digital_Innovation
  
- **Assuntos abordados neste curso**:
+ **Assuntos abordados durante o curso**:
  1. Python Básico
  1. Estrutura de dados
  1. Introdução a Biblioteca Pandas
